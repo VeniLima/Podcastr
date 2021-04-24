@@ -10,7 +10,6 @@ Project developed during the Next Level Week.
 # In your home
 
 ## Requirements
-You need to install both Node.js and Yarn to run this project.
 
 ### Clone the repository
 $ git clone https://github.com/VeniLima/Podcastr.git
