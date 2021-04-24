@@ -16,13 +16,19 @@ You need to install both Node.js and Yarn to run this project.
 $ git clone https://github.com/VeniLima/Podcastr.git
 
 ### Install the dependencies
-$ yarn
+$ yarn install
+or
+$ npm install
 
 ### Run the backend fake server
 $ yarn server
+or
+npm run server
 
 ### Run the web server
 $ yarn dev
+or
+npm run dev
 
 ### The project will start at: 3000 - access http://localhost:3000 
 
